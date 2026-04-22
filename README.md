@@ -59,7 +59,8 @@ Goal: Become Product Engineer
 | Project         | Description                       | Stack        |
 | --------------- | --------------------------------- | ------------ |
 | 🔥 DevFlow AI   | SaaS AI Chat App + Billing + Auth | MERN + Next  |
-| 🚀 JobPilot AI  | Smart Job Tracker + Analytics     | MERN         |
+| 🔥 JobPilot     | Smart Job Tracker + Analytics     | MERN         |
+| 🚀 DsSync Hub   |Team Collaboration SaaS Platform + Tasks + Billing | MERN + TypeScript      |
 
 ---
 
