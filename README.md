@@ -3,8 +3,9 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=860&lines=Full+Stack+Engineer+%E2%80%94+MERN+%C2%B7+Next.js+%C2%B7+TypeScript;4+Deployed+AI-Integrated+Products+%7C+Solo-Built;Groq+%C2%B7+OpenRouter+%C2%B7+N8N+%C2%B7+PostgreSQL+%C2%B7+Supabase;Open+to+Junior+Roles+%26+Remote+Freelance+%7C+IST+(UTC%2B5%3A30)" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=780&lines=4+deployed+AI-integrated+SaaS+products+%E2%80%94+built+solo%2C+end-to-end;MERN+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+PostgreSQL+%C2%B7+Supabase;Groq+%C2%B7+OpenRouter+%C2%B7+N8N+%C2%B7+Socket.io+%C2%B7+Razorpay;Open+to+Full-Stack+Roles+%26+Remote+Freelance" alt="Typing SVG" />
 </p>
+
 
 <p align="center">
   <a href="https://github.com/chauhandigvijay1">
