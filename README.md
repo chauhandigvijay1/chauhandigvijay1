@@ -83,20 +83,19 @@ Auth: JWT sessions + Google OAuth 2.0. API secured with Helmet, rate limiting, a
 
 ### [JobPilot AI — Job Application Tracker](https://jobpilot-client-chi.vercel.app)
 
-Kanban tracker with a Cheerio scraper that extracts job fields (title, company, salary) from any listing URL via OpenGraph tags and CSS-selector fallbacks. Groq (Llama 3.3-70B) drafts follow-up emails per application.
-
-node-cron reminders, DnD-Kit pipeline, Swagger/OpenAPI docs, and **Express 5 with native ESM modules**.
+AI-powered Kanban pipeline with a Chrome extension that scrapes 50+ job portals. Groq Llama 3 handles resume parsing, ATS scoring, cover letters, and interview prep. Cheerio fallback, node-cron reminders, analytics dashboard, and **Express 5 ESM**. 162 tests.
 
 ![Next.js 14](https://img.shields.io/badge/Next.js_14-000000?style=flat-square&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Express 5](https://img.shields.io/badge/Express_5-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq_API-F5A623?style=flat-square)
 ![Cheerio](https://img.shields.io/badge/Cheerio-E88C1F?style=flat-square)
+![Chrome MV3](https://img.shields.io/badge/Chrome_MV3-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
 ![DnD Kit](https://img.shields.io/badge/DnD_Kit-3B82F6?style=flat-square)
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-00C896?style=flat-square)](https://jobpilot-client-chi.vercel.app)
 [![Source Code](https://img.shields.io/badge/Source-Code-181717?style=flat-square&logo=github)](https://github.com/chauhandigvijay1)
-
 </td>
 <td valign="top" width="50%">
 
