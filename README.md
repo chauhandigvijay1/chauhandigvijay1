@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img width="128" height="128" alt="digvijay-logo-512" src="https://github.com/user-attachments/assets/5539f298-9f2f-48d2-bf16-3f734fcf7a71"  style="border-radius:50%;border:3px solid #4f46e5; />
+  <img width="128" height="128" alt="digvijay-logo-512" src="https://github.com/user-attachments/assets/5539f298-9f2f-48d2-bf16-3f734fcf7a71"  style="border-radius:50%;border:3px solid #4f46e5;"/>
 </p>
 
 <p align="center">
