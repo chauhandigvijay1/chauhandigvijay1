@@ -17,7 +17,7 @@
   <a href="https://dsc-portfolio-website.netlify.app"><img src="https://img.shields.io/badge/Portfolio-Live-00C896?style=flat-square&logo=netlify&logoColor=white" /></a>
 </p>
 
-<p align="center"><sub>📍 Greater Noida, India &nbsp;·&nbsp; 🕐 IST (UTC+5:30) &nbsp;·&nbsp; 🌍 Remote-ready &nbsp;·&nbsp; 🎓 MCA, graduating 2026</sub></p>
+<p align="center"><sub>📍 Greater Noida, India &nbsp;·&nbsp; 🕐 IST (UTC+5:30) &nbsp;·&nbsp; 🌍 Remote-ready &nbsp;·&nbsp; 🎓 MCA, graduate 2026</sub></p>
 
 <br/>
 
