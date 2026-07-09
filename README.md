@@ -84,7 +84,7 @@ Multi-tenancy enforced through a `Membership` join table across 4 RBAC roles (ow
 ![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=flat-square)
 
 [![Live](https://img.shields.io/badge/Live-Demo-00C896?style=flat-square)](https://dssync-hub-client.vercel.app)
-[![Source](https://img.shields.io/badge/Source-Code-181717?style=flat-square&logo=github)](https://github.com/chauhandigvijay1)
+[![Source](https://img.shields.io/badge/Source-Code-181717?style=flat-square&logo=github)](https://github.com/chauhandigvijay1/DsSyncHub)
 
 </td>
 </tr>
@@ -107,7 +107,7 @@ Auth is dual-JWT (15-min access + 30-day refresh) with a `tokenVersion` integer 
 ![Chrome MV3](https://img.shields.io/badge/Chrome_MV3-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
 
 [![Live](https://img.shields.io/badge/Live-Demo-00C896?style=flat-square)](https://jobpilot-client-chi.vercel.app)
-[![Source](https://img.shields.io/badge/Source-Code-181717?style=flat-square&logo=github)](https://github.com/chauhandigvijay1)
+[![Source](https://img.shields.io/badge/Source-Code-181717?style=flat-square&logo=github)](https://github.com/chauhandigvijay1/JobPilot)
 
 </td>
 <td valign="top" width="50%">
@@ -128,7 +128,7 @@ Deliberately built in **plain JavaScript, not TypeScript** — a conscious trade
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
 
 [![Live](https://img.shields.io/badge/Live-Demo-00C896?style=flat-square)](https://devflow-ai-client.netlify.app)
-[![Source](https://img.shields.io/badge/Source-Code-181717?style=flat-square&logo=github)](https://github.com/chauhandigvijay1)
+[![Source](https://img.shields.io/badge/Source-Code-181717?style=flat-square&logo=github)](https://github.com/chauhandigvijay1/devflow-AI)
 
 </td>
 </tr>
